@@ -2875,6 +2875,7 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.2;
 				USER_HEADER_SEARCH_PATHS = ReactiveObjC/extobjc;
+				VALID_ARCHS = "$(ARCHS_STANDARD)";
 			};
 			name = Debug;
 		};
@@ -2892,6 +2893,7 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.2;
 				USER_HEADER_SEARCH_PATHS = ReactiveObjC/extobjc;
+				VALID_ARCHS = "$(ARCHS_STANDARD)";
 			};
 			name = Release;
 		};
@@ -3026,6 +3028,7 @@
 				INFOPLIST_FILE = ReactiveObjC/Info.plist;
 				SWIFT_VERSION = 4.2;
 				USER_HEADER_SEARCH_PATHS = ReactiveObjC/extobjc;
+				VALID_ARCHS = "$(ARCHS_STANDARD)";
 			};
 			name = Profile;
 		};
@@ -3110,6 +3113,7 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.2;
 				USER_HEADER_SEARCH_PATHS = ReactiveObjC/extobjc;
+				VALID_ARCHS = "$(ARCHS_STANDARD)";
 			};
 			name = Test;
 		};
